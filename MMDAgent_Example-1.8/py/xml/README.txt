@@ -1,0 +1,5 @@
+OpenCV よりカスケードファイルをここに追加してください。
+haarcascade_frontalface_alt.xml
+haarcascade_fullbody.xml
+これらのファイルがない場合、CamFaceDetect.pyは正常に動作しません。
+※ライセンスの関係上、ファイルのアップロードはしていません。
